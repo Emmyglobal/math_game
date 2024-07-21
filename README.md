@@ -1,0 +1,1 @@
+for multiplication table
